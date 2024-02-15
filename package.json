@@ -20,7 +20,7 @@
   "node": "^18"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node video-api.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
