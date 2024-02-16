@@ -210,4 +210,5 @@ app.delete("/deletevideo/:id",(req, res)=>{
 // console.log(process.env.PORT)
 // console.log(`Server started :${process.env.BASE_URL}`);
 app.listen(port);
-console.log(`Server started :http://127.0.0.1:5000`);
+console.log(constr);
+console.log(`Server started :http://127.0.0.1:5500`);
